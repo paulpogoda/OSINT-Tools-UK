@@ -20,8 +20,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [UK Government Data](https://www.data.gov.uk/search)
 - [Office for National Statistics](https://www.ons.gov.uk)
 - [British Library](https://www.bl.uk)
-- [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk) Search digitised and OCRed newsletters from the 1700s to the present day. Excellent for historical investigations, though it may miss more recent publications.
-- [Joint Nature Conservation Committee Search](https://search.jncc.gov.uk/?q=). JNCC is the public body that advises the UK Government and devolved administrations on UK-wide and international nature conservation
+- [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk)
+- [Joint Nature Conservation Committee Search](https://search.jncc.gov.uk/?q=)
 - [Find an authority](https://www.whatdotheyknow.com/select_authority?query=)
 - [Ipsum - Online Patent Information and Document Inspection Service](https://www.ipo.gov.uk/p-ipsum.htm)
 
