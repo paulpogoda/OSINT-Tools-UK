@@ -21,6 +21,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Office for National Statistics](https://www.ons.gov.uk)
 - [British Library](https://www.bl.uk)
 - [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk)
+- [The National Archives](https://www.nationalarchives.gov.uk)
+
 - [Joint Nature Conservation Committee Search](https://search.jncc.gov.uk/?q=)
 - [Find an authority](https://www.whatdotheyknow.com/select_authority?query=)
 - [Ipsum - Online Patent Information and Document Inspection Service](https://www.ipo.gov.uk/p-ipsum.htm)
