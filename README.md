@@ -28,6 +28,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Ipsum - Online Patent Information and Document Inspection Service](https://www.ipo.gov.uk/p-ipsum.htm)
 
 ### Courts
+- [BAILII Legislation Search](https://www.bailii.org/form/search_legis.html)
 - [Search Criminal Case Results](https://www.thelawpages.com/court-cases/court-case-search.php?mode=1)
 - [Courts and Tribunals Judiciary](https://www.judiciary.uk/judgments/)
 - [Case Tracker for Civil Appeals](https://casetracker.justice.gov.uk/search.jsp)
