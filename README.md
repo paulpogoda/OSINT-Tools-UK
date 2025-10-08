@@ -64,7 +64,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Check if a vehicle is taxed and has an MOT](https://vehicleenquiry.service.gov.uk)
 - [Check Vehicle MOT history](https://www.check-mot.service.gov.uk)
 - [Free Car Check 1](https://www.freecarcheck.co.uk)
-- [Free Car Check 2](https://www.caranalytics.co.uk)
+- [Car History Check](https://www.caranalytics.co.uk)
 - [Partial UK number plate search](https://www.partialnumberplate.co.uk)
 - [London Transport Museum Photo Search](https://www.ltmuseum.co.uk/collections/the-collection?f%5B0%5D=collection_type%3APhotographs)
 - [Real Time Trains](https://www.realtimetrains.co.uk)
