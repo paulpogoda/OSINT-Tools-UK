@@ -1,5 +1,5 @@
 # OSINT-Tools-UK
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/2880px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" alt="Union-Jack"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Union-Jack"/>
 
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to The United Kingdom. Thanks to the [UK OSINT Community](https://www.linkedin.com/company/osintuk/).
 
