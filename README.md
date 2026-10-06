@@ -44,6 +44,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Dun & Bradstreet D‑U‑N‑S® Number Lookup](https://www.dnb.co.uk/duns-number/lookup.html)
 - [Online medicines seller registry](https://medicine-seller-register.mhra.gov.uk/search-registry/)
 - [UK Company OSINT Research Advice](https://www.uk-osint.net/companysites.html)
+- [OpenRegistry](https://openregistry.sophymarine.com)
 <img src="https://www.uk-osint.net/images/companydetails.jpg" alt="UK-Company-OSINT"/>
 
 ## Maps
