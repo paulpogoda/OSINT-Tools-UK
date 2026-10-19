@@ -3,6 +3,8 @@
 
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to The United Kingdom. Thanks to the [UK OSINT Community](https://www.linkedin.com/company/osintuk/).
 
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-UK?label=Last%20updated)
+
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
 
