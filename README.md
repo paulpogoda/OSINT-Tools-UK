@@ -91,7 +91,7 @@ A platform for searching recent and historical UK public records, including birt
 - [Contracts Finder](https://www.gov.uk/contracts-finder). Contracts Finder lets you search for information about contracts worth over £12,000 (including VAT) with the government and its agencies. To find and apply for high value contracts in the UK (usually above £139,688 including VAT) use the [Find a Tender](https://www.gov.uk/find-tender) service instead.
 - [Public Contracts Scotland](https://www.publiccontractsscotland.gov.uk/search/search_mainpage.aspx)
 - [Tracker Intelligence](https://www.trackerintelligence.com/public-sector-procurement/government-tenders/)
-- [TenderTracker UK](https://tendertracker.co.uk/?utm_source=github.com&utm_medium=outreach). Free third-party search over Find a Tender and Contracts Finder notices and awards since June 2021, with supplier and buyer profiles. Full award history and alerts need a free account.
+- [TenderTracker UK](https://tendertracker.co.uk/). Free third-party search over Find a Tender and Contracts Finder notices and awards since June 2021, with supplier and buyer profiles. Full award history and alerts need a free account.
 
 ## WHOIS
 - [WHOIS UK](https://whois.uk)
