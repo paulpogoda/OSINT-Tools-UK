@@ -60,7 +60,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [UK Air Monitoring](https://uk-air.defra.gov.uk/interactive-map)
 - [Flood Map and History](https://flood-map-for-planning.service.gov.uk)
 - [Northern Ireland Historic Environment Map](https://experience.arcgis.com/experience/8bb16b64f0994385a5c141027ae9d33e/)
-
+- [Street Crime Map](https://streetcrimemap.co.uk/) - Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes.
+  
 ## Vehicles
 ### Land
 - [Check if a vehicle is taxed and has an MOT](https://vehicleenquiry.service.gov.uk)
