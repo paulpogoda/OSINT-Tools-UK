@@ -57,6 +57,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [London Rent Maps](https://apps.london.gov.uk/private-rents/)
 - [London Public Land Registry](https://apps.london.gov.uk/public-land/)
 - [Who Owns England](http://map.whoownsengland.org)
+- [H1DR4 Incident Map](https://h1dr4.dev/map) - Browse published incidents by location, including approximate street-crime locations from Police.uk. Free without an account.
 - [UK Air Monitoring](https://uk-air.defra.gov.uk/interactive-map)
 - [Flood Map and History](https://flood-map-for-planning.service.gov.uk)
 - [Northern Ireland Historic Environment Map](https://experience.arcgis.com/experience/8bb16b64f0994385a5c141027ae9d33e/)
